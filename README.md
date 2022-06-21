@@ -20,7 +20,7 @@
 <br> Confira se a soma dos números é maior que 10 ou menor que 20
 <br> Retorne uma string dizendo: "Os números num1 e num2 não/são iguais. Sua soma é soma, que é maior/menor que 20"
 
-<h3>Exemplo:
+<h3>Exemplo:</h3>
 <br> Input: 1, 2
 <br> Output: Os números 1 e 2 não são iguais. Sua soma é 3, que é menor que 10 e menor que 20
 
